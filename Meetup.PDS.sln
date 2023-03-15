@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup.PDS.HLL", "src\Meetup.PDS.HLL\Meetup.PDS.HLL.csproj", "{FD06FFCE-4C83-420B-992D-2A5F7DE632B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup.PDS.MurmurHash", "src\Meetup.PDS.MurmurHash\Meetup.PDS.MurmurHash.csproj", "{FCFD7F3E-A064-4957-9EDA-226388CEAA6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup.PDS.BF", "src\Meetup.PDS.BF\Meetup.PDS.BF.csproj", "{4FA4ECF8-73B3-45EA-BE5F-D0B2F9830026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD06FFCE-4C83-420B-992D-2A5F7DE632B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD06FFCE-4C83-420B-992D-2A5F7DE632B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD06FFCE-4C83-420B-992D-2A5F7DE632B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD06FFCE-4C83-420B-992D-2A5F7DE632B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFD7F3E-A064-4957-9EDA-226388CEAA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFD7F3E-A064-4957-9EDA-226388CEAA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFD7F3E-A064-4957-9EDA-226388CEAA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFD7F3E-A064-4957-9EDA-226388CEAA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA4ECF8-73B3-45EA-BE5F-D0B2F9830026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA4ECF8-73B3-45EA-BE5F-D0B2F9830026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA4ECF8-73B3-45EA-BE5F-D0B2F9830026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA4ECF8-73B3-45EA-BE5F-D0B2F9830026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
